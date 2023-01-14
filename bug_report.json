@@ -1,0 +1,15 @@
+{
+  "ID":1,
+  "Title":"Users can not fiLl information about yourself in the information field on the homepage",
+  "Steps to reproduce":{
+  "1":"Run desktop app",
+  "2":"Click on 'registration' button",
+  "3":"Fill the iformation field about yourself"
+},
+  "Severity":"major",
+  "Priority":"Medium",
+  "Attachments":null,
+  "Expected result":"User can fill information about yourself",
+  "Actual information":"User can not fill information, keywords cannot type to the text area"
+}
+
